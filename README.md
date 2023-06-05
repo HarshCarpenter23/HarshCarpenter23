@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshCarpenter23
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning java language 
-- 💞️ I’m looking for internship. I know front end development using HTML and CSS
+- 🌱 I’m good at DSA | My main language is Java 
+- 💞️ I’m looking for internship. Android Development and Front end  web development
 - 📫 How to reach me Email- harshcarpenter06902@gmail.com 
                      Contact- 9179970908
 
