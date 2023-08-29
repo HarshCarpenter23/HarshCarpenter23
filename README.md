@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshCarpenter23
-- 👀 I’m interested in programming 
-- 🌱 I’m good at DSA | My main language is Java 
+- 🔥 VIP Cisco 2023
+- 🌱 I’m good at DSA | Java | Cybersecurity 
 - 💞️ I’m looking for internship. Android Development and Front end  web development
 - 📫 How to reach me Email- harshcarpenter06902@gmail.com 
                      Contact- 9179970908
